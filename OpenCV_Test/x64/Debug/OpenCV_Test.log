@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\dongyoung\source\repos\OpenCV_Test\OpenCV_Test\Main.cpp(38,6): warning C4101:  'size' :참조되지 않은 지역 변수입니다.
+C:\Users\dongyoung\source\repos\OpenCV_Test\OpenCV_Test\Main.cpp(50,6): warning C4101:  'size' :참조되지 않은 지역 변수입니다.
+  OpenCV_Test.vcxproj -> C:\Users\dongyoung\source\repos\OpenCV_Test\x64\Debug\OpenCV_Test.exe
